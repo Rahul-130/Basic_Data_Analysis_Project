@@ -1,1 +1,1 @@
- (https://docs-v3.strapi.io/)
+https://docs-v3.strapi.io/
